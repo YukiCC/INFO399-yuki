@@ -5,4 +5,5 @@ package com.iu.gdhody.mymobileapp;
  */
 
 public class AppClass {
+    public String title;
 }
